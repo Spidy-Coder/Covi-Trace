@@ -4,8 +4,7 @@ Deployed Project URL:-https://covi-trace.web.app/
 
 # Screenshot
 
-
-
+<img src="Screenshot (19).png"/>
 
 # Getting Started with Create React App
 
